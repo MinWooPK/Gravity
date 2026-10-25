@@ -7,7 +7,7 @@ export const Footer = () => {
     <footer className="relative z-10 hidden bg-transparent px-4 py-5 text-center text-base leading-relaxed text-slate-300 sm:block sm:px-6">
       {" "}
       <p className="mx-auto flex max-w-7xl flex-wrap items-center justify-center gap-x-1.5 gap-y-1">
-        <span>© 2026 BinPar</span>
+        <span>© 2026 </span>
         <span aria-hidden="true">·</span>
         <span>Gravity Lab</span>
         <span aria-hidden="true">·</span>
